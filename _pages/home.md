@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: home
 title: "Bem-vindos"
 permalink: /
 ---
@@ -11,4 +11,4 @@ While doing some research up on GitHub Pages, I accidentally chanced upon this _
 ## Contribute
 Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
 
-Thanks for reading!
+Thanks for reading! <3
