@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: items
 title: Posts
 permalink: /posts/
 ---
