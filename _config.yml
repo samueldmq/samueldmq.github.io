@@ -32,7 +32,11 @@ plugins:
 # Permalinks
 permalink:      /:year-:month-:day/:title
 paginate:       5
-paginate_path:  _layouts/posts/page:num/
+#paginate_path:  _layouts/posts/page:num/
+
+# Collections
+collections:
+  - talks
 
 # Excludes
 exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
