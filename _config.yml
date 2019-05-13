@@ -37,6 +37,7 @@ paginate:       5
 # Collections
 collections:
   - talks
+  - posts
 
 # Excludes
 exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
